@@ -1,4 +1,5 @@
-#### Syed Muhammad Hunain
+
+#### SYED MUHAMMAD HUNAIN
 
 #### ABOUT ME
 * Hi, I'm Syed Muhammad Hunain, a Computer Science Student
@@ -10,10 +11,11 @@
 * Matriculation, Chiniot Islamia School (2022)
 * Hifz-ul-Quran, Iqra Rozatul Atfal Trust (2015)
 
-#### Skills
+#### SKILLS
 * Programming language: C (Learning)
 * Web Developer: HTML, CSS
 
+#### CONTACT
 * Email: hunainsince2005@gmail.com 
 
 <!---
