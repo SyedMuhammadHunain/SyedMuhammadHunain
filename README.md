@@ -13,7 +13,7 @@
 
 #### SKILLS
 * Programming language: C (Learning)
-* Web Developer: HTML, CSS
+* Front End Developer: HTML, CSS
 
 #### CONTACT
 * Email: hunainsince2005@gmail.com 
