@@ -17,7 +17,7 @@
 
 #### CONTACT
 * Email: hunainsince2005@gmail.com 
-
+* LinkedIn: https://www.linkedin.com/in/syed-muhammad-hunain-rizwan-31a381323/
 <!---
 SyedMuhammadHunain/SyedMuhammadHunain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
