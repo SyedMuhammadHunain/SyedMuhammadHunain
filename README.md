@@ -9,7 +9,7 @@
 * Student of NED University, currently enrolled in Computer Science Domain
 * Intermediate, Adamjee Science College (2024)
 * Matriculation, Chiniot Islamia School (2022)
-* Hifz-ul-Quran, Iqra Rozatul Atfal Trust (2015)
+
 
 #### SKILLS
 * Programming language: C (Learning)
