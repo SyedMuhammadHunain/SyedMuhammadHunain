@@ -12,7 +12,7 @@
 
 
 #### SKILLS
-* Programming languages: C , Python (Learning).
+* Programming languages: C , Python
 * Front End Developer: HTML, CSS
 
 #### CONTACT
