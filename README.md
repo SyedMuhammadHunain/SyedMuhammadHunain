@@ -12,7 +12,7 @@
 
 
 #### SKILLS
-* Programming languages: C
+* Programming language: C
 * Front End Developer: HTML5, CSS3, JavaScript
 
 #### CONTACT
