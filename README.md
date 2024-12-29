@@ -12,8 +12,8 @@
 
 
 #### SKILLS
-* Programming languages: C , Python
-* Front End Developer: HTML, CSS
+* Programming languages: C
+* Front End Developer: HTML5, CSS3, JavaScript
 
 #### CONTACT
 * Email: hunainsince2005@gmail.com 
