@@ -2,7 +2,7 @@
 #### SYED MUHAMMAD HUNAIN
 
 #### ABOUT ME
-* Hi, I'm Syed Muhammad Hunain, a Computer Science Student
+* Hi, I'm Syed Muhammad Hunain, a Computer Science Student.
 
 #### EDUCATION
 
