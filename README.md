@@ -13,7 +13,7 @@
 
 #### SKILLS
 * Programming language: C
-* Front End Developer: HTML5, CSS3, JavaScript
+* Front End Developer: JavaScript, TypeScript
 
 #### CONTACT
 * Email: hunainsince2005@gmail.com 
