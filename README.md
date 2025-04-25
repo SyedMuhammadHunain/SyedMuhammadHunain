@@ -12,12 +12,12 @@
 
 
 #### SKILLS
-* Programming language: C
-* Front End Developer: JavaScript, TypeScript
+* Programming language: C, C++, TypeScript
+* Backend End Web Developer: NestJS, TypeScript
 
 #### CONTACT
-* Email: hunainsince2005@gmail.com 
-* LinkedIn: https://www.linkedin.com/in/syed-muhammad-hunain-rizwan-31a381323/
+* Email: hunain.rizwan.ofc@gmail.com
+* LinkedIn: www.linkedin.com/in/syed-muhammad-hunain-rizwan-23626335b
 <!---
 SyedMuhammadHunain/SyedMuhammadHunain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
