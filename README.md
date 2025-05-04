@@ -9,7 +9,7 @@ I'm a passionate Computer Science student at NED University of Engineering and T
 ## 🚀 Education
 - 📚 Bachelor's in Computer Science - NED University of Engineering and Technology (2024 - 2028)
   - Current Focus: Object-Oriented Programming, Data Structures
-  - Second Semester (Spring 2024)
+  - Second Semester (Spring 2025)
 - 🎯 Pre-Engineering - Adamjee Government Science College (2022 - 2024)
 - 🏫 Matriculation - Chiniot Islamia School (2020 - 2022)
 
@@ -20,10 +20,6 @@ I'm a passionate Computer Science student at NED University of Engineering and T
 - **Backend Development**: 
   - 🛠️ NestJS
   - 📊 MongoDB
-  - 🔄 REST APIs
-  - 🔐 JWT Authentication
-  - 🎯 Microservices Architecture
-
 ## 🌟 Experience
 - 💼 **Backend Developer Intern** at ThreatCure
   - Developing robust backend solutions using NestJS and MongoDB
