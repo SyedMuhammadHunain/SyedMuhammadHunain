@@ -23,7 +23,7 @@
 
 **Database:** MongoDB
 
-**Tools:** Git, VS Code, Cursor, Postman, Swagger API
+**Tools:** Git & GitHub, Antigravity, VS Code, Cursor, Postman, Swagger API, MongoDB Compass
 
 ---
 
