@@ -6,8 +6,8 @@
 
 ### About Me
 
-- 🔭 I’m currently working on: **Selencer Startup** and **Digital Product Passport** project
-- 🌱 I’m currently learning: **AI Automations**, **Prompt Engineering**, **MongoDB** and **NX Monorepo**
+- 🔭 I’m currently working on: **e-commerce-backend**
+- 🌱 I’m currently learning: **Linux**, **MongoDB**
 - 👯 I’m looking to collaborate on: **Open Source Projects and participate in Hackathons**
 - 🥅 2026 Goals: **Become GenAI Full Stack Developer**
 
