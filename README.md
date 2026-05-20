@@ -53,6 +53,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Revisio](https://github.com/SyedMuhammadHunain/revisio)** | Learning platform to master DSA, OOP, and PF featuring a RAG-powered AI, performance analytics, smart proctoring, and more. | Angular 19, NestJS, MongoDB |
+| **[Local Service Marketplace](https://github.com/sarimkhan4/Local_Service_Marketplace)** | A platform designed for orchestrating local services, connecting customers with service providers seamlessly, managing everything from scheduling and bookings to payments and reviews. | Angular, NestJS, MySQL|
 | **[E-Commerce](https://github.com/SyedMuhammadHunain/ecommerce-backend)** | Scalable backend featuring product management, shopping cart, checkout, Stripe, order system, and more. | Angular, NestJS, MongoDB|
 | **[WebCode`25 FinConnect](https://github.com/SyedMuhammadHunain/webcode25-finconnect-backend)** | This is a developer-focused sandbox portal. It allows users to register, subscribe to plans, and access mock financial APIs secured with JWT and RBAC. | Angular, NestJS, MongoDB|
 
