@@ -6,8 +6,8 @@
 
 ### About Me
 
-- 🔭 I’m currently working on: **Semester Final Exams**
-- 🌱 I’m currently learning: **MySQL**
+- 🔭 I’m currently working on: **n8n**
+- 🌱 I’m currently learning: **n8n**
 - 👯 I’m looking to collaborate on: **Open Source Projects and participate in Hackathons**
 - 🥅 2026 Goals: **Become Fullstack AI Engineer**
 
