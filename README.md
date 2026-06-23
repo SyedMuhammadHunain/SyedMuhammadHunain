@@ -6,9 +6,9 @@
 
 ### About Me
 
-- 🔭 I’m currently working on: **n8n**
-- 🌱 I’m currently learning: **n8n**
-- 👯 I’m looking to collaborate on: **Open Source Projects and participate in Hackathons**
+- 🔭 I’m currently working on: **A B2B Market Intelligence Scraping System (Capstone Project Hackathon)**
+- 🌱 I’m currently learning: **n8n, Agentic AI Architectures, and Vibe Coding (Google x Kaggle)**
+- 👯 I’m looking to collaborate on: **Open Source Projects and AI Hackathons**
 - 🥅 2026 Goals: **Become Fullstack AI Engineer**
 
 ---
