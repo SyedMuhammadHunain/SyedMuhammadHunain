@@ -27,24 +27,30 @@
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
+
 <div align="center">
-
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SyedMuhammadHunain&show_icons=true&theme=tokyonight&hide_border=true" width="40%" height="180" alt="stats graph" />
-
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SyedMuhammadHunain&layout=compact&theme=tokyonight&hide_border=true" width="40%" height="180" alt="languages graph" />
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SyedMuhammadHunain&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="45%" alt="Stats Graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SyedMuhammadHunain&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Languages Graph" />
 </div>
+
+<br/>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=SyedMuhammadHunain&theme=tokyonight"
-      alt="GitHub Streak"
-    />
+    <img src="https://streak-stats.demolab.com?user=SyedMuhammadHunain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyedMuhammadHunain/SyedMuhammadHunain/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyedMuhammadHunain/SyedMuhammadHunain/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/SyedMuhammadHunain/SyedMuhammadHunain/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
