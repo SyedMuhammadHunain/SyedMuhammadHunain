@@ -6,10 +6,9 @@
 
 ### About Me
 
-- 🔭 I’m currently working on: **A B2B Market Intelligence Scraping System (Capstone Project Hackathon)**
-- 🌱 I’m currently learning: **n8n, Agentic AI Architectures, and Vibe Coding (Google x Kaggle), Docker**
+- 🔭 I’m currently working on: **OOAD, IAI, TAFL projects**
+- 🌱 I’m currently learning: **Machine Learning, Object Oriented Analysis & Design, System Design**
 - 👯 I’m looking to collaborate on: **Open Source Projects and AI Hackathons**
-- 🥅 2026 Goals: **Become Fullstack AI Engineer**
 
 ---
 
