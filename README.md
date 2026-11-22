@@ -4,6 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=70A5FD&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%26+AI+Engineer;Flutter+%E2%80%A2+Angular+%E2%80%A2+NestJS+%E2%80%A2+Django+%E2%80%A2+Spring+Boot;Machine+Learning+%26+Multi-Agent+Systems+(ADK+2.0);Computer+Science+%40+NED+University" alt="Typing intro" />
 
 <p>
+  <a href="https://hunain.me"><img src="https://img.shields.io/badge/Portfolio-hunain.me-d1c5ad?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio: hunain.me" /></a>
   <img src="https://komarev.com/ghpvc/?username=SyedMuhammadHunain&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
   <a href="https://github.com/SyedMuhammadHunain?tab=followers"><img src="https://img.shields.io/github/followers/SyedMuhammadHunain?label=Followers&style=flat&color=bb9af7&logo=github" alt="Followers" /></a>
   <a href="https://github.com/SyedMuhammadHunain?tab=repositories"><img src="https://img.shields.io/badge/Public%20repos-50%2B-9ece6a?style=flat&logo=github" alt="Repositories" /></a>
